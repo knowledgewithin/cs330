@@ -22,5 +22,5 @@ def get_posts():
 
 
 # Uncomment to test:
-# create_post()
-# get_posts()
+create_post()
+get_posts()
